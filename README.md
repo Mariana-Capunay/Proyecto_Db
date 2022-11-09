@@ -1,5 +1,6 @@
 # Proyecto del Curso Base de Datos
-##Integrantes
+
+## Integrantes
 - Capuñay Correa, Mariana Aurora
 - Chavarria Humareda, Javier Omar
 - Cueva Mendoza, Manyory Estefany
